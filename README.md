@@ -2,5 +2,6 @@
 
 Source code for tutorials shown on JandroideTV.
 
-Twitch: https://www.twitch.tv/jandroidetv
-YouTube: https://www.youtube.com/@jandroidetv
+Let's learn together on Twitch: https://www.twitch.tv/jandroidetv
+
+Find all videos on YouTube: https://www.youtube.com/@jandroidetv
