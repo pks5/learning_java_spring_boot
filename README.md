@@ -1,6 +1,6 @@
 # Learning Java and Spring Boot
 
-Source code for tutorials shown on JandroideTV.
+Source code for Spring Boot tutorials shown on JandroideTV.
 
 Let's learn together on Twitch: https://www.twitch.tv/jandroidetv
 
