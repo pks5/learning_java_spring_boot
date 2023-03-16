@@ -1,4 +1,4 @@
-package de.pksoftware.learning.java_spring_boot.template;
+package de.pksoftware.learning.java_spring_boot.creating_web_page;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
